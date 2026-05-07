@@ -246,6 +246,6 @@ WebServe/
 
 ## Authors
 
-hdagdagu
-rrhnizar
-kchaouki
+- **hdagdagu**
+- **rrhnizar**
+- **kchaouki**
